@@ -1,5 +1,6 @@
 import Vue from 'vue'
-import 'normalize.css' // css reset
+// css reset
+import 'normalize.css'
 
 // element-ui
 import Element from 'element-ui'
